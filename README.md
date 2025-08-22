@@ -24,7 +24,7 @@ DataCleaner/
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 Make sure you have Python installed (>=3.8).  
 Install the required libraries:
 
@@ -32,13 +32,20 @@ Install the required libraries:
 pip install -r requirements.txt
 ```
 ---
-## How to Run (Python Script)
+## How to Run
+- Clone the repository
 
-Run the following command in your terminal:
+```bash
+git clone https://github.com/username/DataCleaner.git
+cd DataCleaner
+```
+- Dependencies installation
+  
+```bash
+pip install -r requirements.txt
+```
 
+- Running the Script
 ```bash
 python main.py
 ```
----
-
-
