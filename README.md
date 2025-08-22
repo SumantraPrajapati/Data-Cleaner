@@ -14,7 +14,7 @@ It helps in handling missing values, removing duplicates, normalizing data, and 
 - Save cleaned dataset into a new CSV file
 
 ---
-
+## Project Structure
 ```
 DataCleaner/
 │── cleaner.py         # Main cleaning script
@@ -23,3 +23,22 @@ DataCleaner/
 ```
 
 ---
+
+## 🛠️ Requirements
+Make sure you have Python installed (>=3.8).  
+Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+
+---
+
+---
+## How to Run (Python Script)
+
+Run the following command in your terminal:
+```
+python cleaner.py
+```
+
+
