@@ -61,7 +61,7 @@ pip install pyinstaller
 - Run the following command:
 ```bash
 pyinstaller -onefile main.py
-
+```
 - After the build, your ```.exe``` will be located inside the ```dist/``` folder.
 
 ---
