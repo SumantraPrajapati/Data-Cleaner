@@ -14,12 +14,12 @@ It helps in handling missing values, removing duplicates, normalizing data, and 
 - Save cleaned dataset into a new CSV file
 
 ---
-'''
-##  Project Structure
+
+```
 DataCleaner/
 │── cleaner.py         # Main cleaning script
 │── requirements.txt   # Python dependencies
 │── sample.csv         # Example dataset (for testing)
-'''
+```
 
 ---
