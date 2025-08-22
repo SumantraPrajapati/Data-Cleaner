@@ -49,3 +49,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+---
+
+# Convert to EXE
+If you want to create a standalone ```bash .exe ``` file:
