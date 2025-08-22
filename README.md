@@ -20,3 +20,5 @@ It helps in handling missing values, removing duplicates, normalizing data, and 
 -│── cleaner.py # Main script
 -│── requirements.txt
 -│── sample.csv # Example dataset
+
+---
