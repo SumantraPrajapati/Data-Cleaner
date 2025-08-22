@@ -37,8 +37,8 @@ pip install -r requirements.txt
 ## How to Run (Python Script)
 
 Run the following command in your terminal:
-```
-python cleaner.py
-```
+
+python main.py
+---
 
 
