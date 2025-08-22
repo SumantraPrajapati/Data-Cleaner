@@ -52,4 +52,16 @@ python main.py
 ---
 
 # Convert to EXE
-If you want to create a standalone ```bash .exe ``` file:
+If you want to create a standalone ```.exe ``` file:
+
+- Install PyInstaller
+```bash
+pip install pyinstaller
+```
+- Run the following command:
+```bash
+pyinstaller -onefile main.py
+
+- After the build, your ```.exe``` will be located inside the ```dist/``` folder.
+
+---
