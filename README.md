@@ -16,9 +16,10 @@ It helps in handling missing values, removing duplicates, normalizing data, and 
 ---
 
 ##  Project Structure
-- DataCleaner/
-- │── cleaner.py # Main script
-- │── requirements.txt
-- │── sample.csv # Example dataset
+DataCleaner/
+│── cleaner.py         # Main cleaning script
+│── requirements.txt   # Python dependencies
+│── sample.csv         # Example dataset (for testing)
+
 
 ---
