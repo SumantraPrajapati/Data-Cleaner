@@ -1,2 +1,5 @@
 numpy
 pandas 
+os
+scikit-learn
+tkinter
