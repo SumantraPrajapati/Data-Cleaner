@@ -65,3 +65,6 @@ pyinstaller -onefile main.py
 - After the build, your ```.exe``` will be located inside the ```dist/``` folder.
 
 ---
+
+# Note
+In this project , along with data cleaning , you can also make the dataset machine learning model ready with normalising the values , encoding the categorial columns
