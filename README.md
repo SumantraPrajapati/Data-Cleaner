@@ -30,13 +30,15 @@ Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
-
-
+```
+---
 ## How to Run (Python Script)
 
 Run the following command in your terminal:
 
+```bash
 python main.py
+```
 ---
 
 
