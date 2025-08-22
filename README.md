@@ -36,7 +36,7 @@ pip install -r requirements.txt
 - Clone the repository
 
 ```bash
-git clone https://github.com/username/DataCleaner.git
+git clone https://github.com/SumantraPrajapati/Data-Cleaner.git
 cd DataCleaner
 ```
 - Dependencies installation
